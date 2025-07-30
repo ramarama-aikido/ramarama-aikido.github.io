@@ -14,3 +14,9 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
   
 gemspec
 
+gem "rake", "~> 13.0.0"
+
+gem "appraisal", "~> 2.5.0"
+
+gem "sass-embedded", "~> 1.69.0"
+
