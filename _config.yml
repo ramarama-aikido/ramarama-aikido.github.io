@@ -21,12 +21,16 @@ author: Seymour Lee
 ###############################################
 
 navbar-links:
-  About Us : "aboutme"
+  Location : "location"
   Schedule: "schedule"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Gallery: "gallery"
+  News&Events : "news"
+  HomeBu:
+    - Resources: "https://www.aikidonewzealand.com/learning-aikido/resources/"
+    - Grading: "https://www.aikidonewzealand.com/2025-grading-schedule/"
+    - Payment: "https://www.aikidonewzealand.com/payments/"
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+
 
 
 ################
@@ -54,7 +58,7 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "sarahj.baker@xtra.co.nz"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: RamaramaAikido
   instagram: aikido_shinryukan_ramarama
@@ -91,7 +95,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
