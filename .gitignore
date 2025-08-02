@@ -14,3 +14,4 @@ beautiful-jekyll-theme-*.gem
 
 # vendor directory (bundled gems)
 vendor/
+_reference/

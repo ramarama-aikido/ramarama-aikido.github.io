@@ -82,4 +82,4 @@ Join us for regular training sessions throughout the week. All classes are suita
 
 New students are welcome to join any class. Please arrive 10 minutes early for your first session to meet the instructor and get oriented.
 
-*All classes are held at our dojo in Ramarama. See our [Location](/location) page for directions.*
+*All classes are held at our dojo in Ramarama. See our [Location](/aboutus) page for directions.*
