@@ -1,0 +1,40 @@
+/* Custom styles to reduce spacing in navigation bar */
+.navbar-expand-xl .navbar-nav .nav-link {
+    padding-left: 0.5rem;  /* Reduced from 0.9375rem */
+    padding-right: 0.5rem; /* Reduced from 0.9375rem */
+}
+
+/* Override text-transform to display navigation items in their original case */
+.navbar-custom .navbar-nav .nav-item {
+    text-transform: none;  /* Override uppercase transformation */
+    font-size: 0.9rem;
+}
+
+/* Increase width of dropdown menu items */
+@media (min-width: 1200px) {
+    .navbar-custom .nav-item.dropdown .dropdown-menu {
+        min-width: 120px; /* Set your desired width here */
+        text-align: left; /* Optional: align text to left instead of center */
+    }
+    
+    .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+        padding: 0.625rem 1rem; /* Optional: add more horizontal padding */
+    }
+    
+    /* Add separator pipes between nav items */
+    .navbar-custom .navbar-nav .nav-item:not(:last-child)::after {
+        content: "|";
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        color: var(--navbar-text-col);
+        opacity: 0.7;
+    }
+    
+    /* Add some right padding to nav items to accommodate the separator */
+    .navbar-custom .navbar-nav .nav-item {
+        position: relative;
+        padding-right: 0.5rem;
+    }
+}

@@ -21,9 +21,12 @@ author: Seymour Lee
 ###############################################
 
 navbar-links:
-  About Us : "aboutus"
+  About: "aboutus"
   Schedule: "schedule"
-  News&Events : "news"
+  News&Events: "news"
+  Gallery:
+    - Instagram: "https://www.instagram.com/aikido_shinryukan_ramarama/"
+    - Facebook: "https://www.facebook.com/RamaramaAikido"
   Hombu:
     - Resources: "https://www.aikidonewzealand.com/learning-aikido/resources/"
     - Grading: "https://www.aikidonewzealand.com/2025-grading-schedule/"
@@ -169,8 +172,8 @@ page-img: "/assets/img/bgimg.jpg"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
