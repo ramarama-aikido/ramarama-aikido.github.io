@@ -57,20 +57,18 @@ Join us for regular training sessions throughout the week. All classes are suita
 | Class | Monday | Wednesday |
 |-------|--------|-----------|
 | **Adult** | 6:00-7:00 PM | 6:00-7:00 PM |
-| **Juniors** | - | 6:00-7:00 PM |
+
 
 
 ## Class Information
+
 
 **Adults Class:**
 - Open to all skill levels
 - Focus on fundamental techniques
 - Suitable for beginners and intermediate students
-
-**Juniors Class:**
-- Ages 8-16
-- Age-appropriate training methods
 - Emphasis on discipline and respect
+- You must be 13 years or older. Check with your local training centre to find out whether they also have combined adult and Children’s Classes.
 
 ## What to Bring
 
@@ -80,6 +78,6 @@ Join us for regular training sessions throughout the week. All classes are suita
 
 ## Getting Started
 
-New students are welcome to join any class. Please arrive 10 minutes early for your first session to meet the instructor and get oriented.
+New students are welcome to join any class. Please arrive 15 minutes early for your first session to meet the instructor and get oriented.
 
 *All classes are held at our dojo in Ramarama. See our [Location](/aboutus) page for directions.*

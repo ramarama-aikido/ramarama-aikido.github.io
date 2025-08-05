@@ -10,27 +10,43 @@ subtitle:
   
   <!-- Sarah Contact Card -->
   <div class="contact-card" style="flex: 1; min-width: 280px; background-color: #f8f9fa; color: #404040; padding: 20px; border-radius: 8px; border: 1px solid #e9ecef; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: left;">
-    <h3 style="margin: 0 0 15px 0; font-size: 18px; color: #404040;">Sarah Baker</h3>
-    <div style="margin-bottom: 10px;">
-      <strong>📞 Phone:</strong><br>
-      <a href="tel:021550941" style="color: #0085A1; text-decoration: none;">021 550 941</a>
-    </div>
-    <div>
-      <strong>📧 Email:</strong><br>
-      <a href="mailto:sarahj.baker@xtra.co.nz" style="color: #0085A1; text-decoration: none;">sarahj.baker@xtra.co.nz</a>
+    <div style="display: flex; gap: 20px; align-items: flex-start;">
+      <!-- Left Column - Details -->
+      <div style="flex: 1;">
+        <h3 style="margin: 0 0 15px 0; font-size: 18px; color: #404040;">Sarah Baker</h3>
+        <div style="margin-bottom: 10px;">
+          <strong>📞 Phone:</strong><br>
+          <a href="tel:021550941" style="color: #0085A1; text-decoration: none;">021 550 941</a>
+        </div>
+        <div>
+          <strong>📧 Email:</strong><br>
+          <a href="mailto:sarahj.baker@xtra.co.nz" style="color: #0085A1; text-decoration: none;">sarahj.baker@xtra.co.nz</a>
+        </div>
+      </div>
+      <!-- Right Column - Picture -->
+      <div style="flex: 0 0 120px;">
+        <img src="/assets/img/Sarah.jpg" alt="Sarah Baker" class="enlargeable" style="width: 90%; height: 100%; border-radius: 8px; object-fit: cover;">
+      </div>
     </div>
   </div>
 
   <!-- Seymour Contact Card -->
   <div class="contact-card" style="flex: 1; min-width: 280px; background-color: #f8f9fa; color: #404040; padding: 20px; border-radius: 8px; border: 1px solid #e9ecef; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: left;">
-    <h3 style="margin: 0 0 15px 0; font-size: 18px; color: #404040;">Seymour Lee</h3>
-    <div style="margin-bottom: 10px;">
-      <strong>📞 Phone:</strong><br>
-      <a href="tel:0220776389" style="color: #0085A1; text-decoration: none;">022 077 6389</a>
-    </div>
-    <div>
-      <strong>📧 Email:</strong><br>
-      <a href="" style="color: #0085A1; text-decoration: none;"></a>
+    <div style="display: flex; gap: 20px; align-items: flex-start;">
+      <!-- Left Column - Details -->
+      <div style="flex: 1;">
+        <h3 style="margin: 0 0 15px 0; font-size: 18px; color: #404040;">Seymour Lee</h3>
+        <div style="margin-bottom: 10px;">
+          <strong>📞 Phone:</strong><br>
+          <a href="tel:0220776389" style="color: #0085A1; text-decoration: none;">022 077 6389</a>
+        </div>
+        <div>
+          <strong>📧 Email:</strong><br>
+        </div>
+      </div>
+      <!-- Right Column - Picture -->
+      <div style="flex: 0 0 120px;">
+      </div>
     </div>
   </div>
 
@@ -41,10 +57,10 @@ subtitle:
 
 <div class="dojo-images" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/img/dojo.jpg" alt="Ramarama Aikido Dojo" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/assets/img/dojo.jpg" alt="Ramarama Aikido Dojo" class="enlargeable" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/img/dojo1.jpg" alt="Ramarama Aikido Dojo Interior" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/assets/img/dojo1.jpg" alt="Ramarama Aikido Dojo Interior" class="enlargeable" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
 
