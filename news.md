@@ -41,8 +41,6 @@ subtitle:
       {% endif %}
       
       <a href="{{ post.url | relative_url }}" class="read-more">Read More →</a>
-      
-      <hr style="margin: 30px 0; border: none; border-top: 1px solid #eee;">
     </article>
   {% endfor %}
 </div>

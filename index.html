@@ -4,6 +4,19 @@ title: Welcome
 subtitle: We invite you to join us with our 3 FREE lessons offer.
 ---
 
+<!-- SEO Meta Tags -->
+<meta name="description" content="Aikido Shinryukan Ramarama - Learn Aikido in New Zealand with 3 FREE lessons. Join our dojo for martial arts training, fitness, and self-defense.">
+<meta name="keywords" content="Aikido, martial arts, New Zealand, Ramarama, dojo, self-defense, fitness, Nobuo Takase, Shinryukan">
+<meta name="author" content="Aikido Shinryukan Ramarama">
+<meta name="robots" content="index, follow">
+<meta property="og:title" content="Aikido Shinryukan Ramarama - Welcome">
+<meta property="og:description" content="Learn Aikido in New Zealand with 3 FREE lessons. Join our dojo for martial arts training.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://ramarama-aikido.github.io">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Aikido Shinryukan Ramarama">
+<meta name="twitter:description" content="Learn Aikido in New Zealand with 3 FREE lessons">
+
 <style>
 .page-subheading {
     font-family: "omnes-pro", Helvetica, Arial, sans-serif;
@@ -11,9 +24,43 @@ subtitle: We invite you to join us with our 3 FREE lessons offer.
     line-height: 1.1;
     color: #c00;
 }
+
+/* Add light lines between div rows */
+.row {
+    position: relative;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.row::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    right: 10%;
+    height: 1px;
+    background-color: #e0e0e0;
+}
+
+/* Remove line from last row */
+.row:last-child::after {
+    display: none;
+}
 </style>
 
 <div class="container">
+    <div class="row">
+        <div class="col-md-7">
+            <p>Announcing the Aikido Shinryukan 56th International Gasshuku. 
+                Hosted by Nobuo Takase Shihan with guest instructors Horii Etsuji Shihan and Miyuki Kumazawa Shihan.
+                Friday 6 March to Sunday 8 March 2026. Registration and details are 
+                <a href="https://www.aikidonewzealand.com/56th-anniversary-aikido-shinryukan-international-gasshuku/" target="_blank" rel="noopener noreferrer">
+                   here.</a></p>
+        </div>
+        <div class="col-md-5">
+            <img src="/assets/img/56_gasshuku.jpg" alt="Gasshuku" width="100%" class="enlargeable"style="margin-bottom: 20px;">
+        </div>  
+    </div>
 	<div class="row">
 		<div class="col-md-7">
 			<p>

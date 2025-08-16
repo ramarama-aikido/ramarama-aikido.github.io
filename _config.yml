@@ -16,6 +16,9 @@ title: Aikido Shinryukan Ramarama
 # Your name to show in the footer
 author: Seymour Lee
 
+# Site URL - replace with your actual domain
+url: "https://ramarama-aikido.github.io"
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -276,6 +279,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
+future: true
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
@@ -313,6 +317,12 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+
+# Sitemap configuration
+sitemap:
+  changefreq: weekly
+  priority: 0.8
+  exclude: ['/feed.xml', '/tags.html']
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
