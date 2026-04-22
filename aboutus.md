@@ -41,7 +41,7 @@ subtitle:
           <a href="" style="color: #0085A1; text-decoration: none;"></a>
         </div>
         <div>
-          <strong>📧 Email:</strong><br>
+          <strong>📧 Email: </strong><br>
         </div>
       </div>
       <!-- Right Column - Picture -->
