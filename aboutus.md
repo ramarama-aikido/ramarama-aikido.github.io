@@ -35,10 +35,10 @@ subtitle:
     <div style="display: flex; gap: 20px; align-items: flex-start;">
       <!-- Left Column - Details -->
       <div style="flex: 1;">
-        <h3 style="margin: 0 0 15px 0; font-size: 18px; color: #404040;">Seymour Lee</h3>
+        <h3 style="margin: 0 0 15px 0; font-size: 18px; color: #404040;"></h3>
         <div style="margin-bottom: 10px;">
           <strong>📞 Phone:</strong><br>
-          <a href="tel:0220776389" style="color: #0085A1; text-decoration: none;">022 077 6389</a>
+          <a href="" style="color: #0085A1; text-decoration: none;"></a>
         </div>
         <div>
           <strong>📧 Email:</strong><br>
